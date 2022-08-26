@@ -1,0 +1,42 @@
+.navigation {
+    align-items: center;
+    background: $black;
+    color: $white;
+    display: flex;
+    flex-direction: column;
+    min-width: 90px;
+    padding: 60px 0;
+    position: relative;
+    width: 90px;
+    z-index: 1000;
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    i {
+        font-size: 1.5rem;
+        margin: 0 0 30px;
+        transition: $transition;
+
+        &:hover {
+            opacity: $opacity;
+        }
+    }
+
+    a {
+        color: $white;
+
+        img {
+            height: auto;
+            transition: all ease .25s;
+            width: 40px;
+        }
+
+        &:hover img {
+            opacity: .5;
+        }
+    }
+}

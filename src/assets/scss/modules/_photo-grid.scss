@@ -1,0 +1,41 @@
+.photo-grid {
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 100px 0 0;
+
+    &__photo {
+        animation: fadeIn 1.5s ease-in-out;
+        border: none;
+        border-radius: $border-radius;
+        cursor: pointer;
+        height: 350px;
+        overflow: hidden;
+        position: relative;
+
+        img {
+            height: 100%;
+            object-fit: cover;
+            width: 100%;
+        }
+
+        &:after {
+            background: rgba(0,0,0,.5);
+            content: '';
+            height: 100%;
+            left: 0;
+            opacity: 0;
+            pointer-events: none;
+            position: absolute;
+            transition: all ease .25s;
+            width: 100%;
+        }
+
+        &:hover {
+
+            &:after {
+                opacity: 1;
+            }
+        }
+    }
+}

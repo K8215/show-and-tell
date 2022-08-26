@@ -1,0 +1,14 @@
+.content-wrap {
+    background-color: $charcoal;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px;
+
+    &--start {
+        justify-content: start;
+    }
+}

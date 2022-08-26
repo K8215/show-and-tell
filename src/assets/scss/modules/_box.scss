@@ -1,0 +1,23 @@
+.box {
+    background: $white;
+    border-radius: $border-radius;
+    max-width: 40vw;
+    padding: 30px;
+
+    &--full {
+        max-width: 100%;
+    }
+
+    &--animated {
+        animation: slideIn 1.5s ease-in-out;
+        position: relative;
+    }
+
+    @include lg {
+        max-width: 50%;
+    }
+
+    @include md {
+        max-width: 100%;
+    }
+}

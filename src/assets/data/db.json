@@ -1,0 +1,40 @@
+{
+  "fossilTypes": [      
+    {
+      "title": "Plants",
+      "body": "1. Poplar Leaf (45-50 MYA) Green River Formation, Utah | 2a. Polished Chert, vascular plant mater (410 MYA) Rhynie, Scotland | 2b. Algae (440 MYA) Kalana Quarry, Estonia | 3. Petrified Sequoia Wood Bookends | 4. Lycopod Tree Root (310MYA), Oklahoma | 5. Syringodendron (300 MYA) Summersville Coal Mine, West Virginia | 6. Calamites (300 MYA) Summersville Coal Mine, West Virginia",
+      "photos": "plant1.jpg,plant2.jpg,plant3.jpg,plant4.jpg,plant5.jpg,plant6.jpg",
+      "id": "0"
+    },
+    {
+      "title": "Marine Animals",
+      "body": "1a. Oyster Morocco | 1b. Oyster Peru | 2. Crinoid | 3. Misc. Devonian Fossils (350-400 MYA) Buffalo & Darien, NY | 4. Megalodon Tooth | 5. Hybodus Dorsal Spine (95 MYA) Kem Kem Basin, Morocco | 6. Plesiosaur Tooth with associated fish bones (65-100 MYA) Morocco | 7. Crocodile Skull Fragment (95 MYA) Kem Kem Basin, Morocco | 8. Mosasaur Vertebrae (80 MYA) Kansas",
+      "photos": "mar1.jpg,mar2.jpg,mar3.jpg,mar4.jpg,mar5.jpg,mar6.jpg,mar7.jpg,mar8.jpg",
+      "id": "1"
+    },
+    {
+      "title": "Trace Fossils",
+      "body": "1. Microbial Mat (300 MYA) Oklahoma | 2. Stromatolite (2 BYA) Western Australia | 3. Tiger Iron Stromatolite (2.7 BYA) Pilbara, Australia | 4. Strelley Pool Stromatolite (3.4 BYA) Pilbara, Australia | 5. Reptile Tail Print (50 MYA), Utah",
+      "photos": "trace1.jpg,trace2.jpg,trace3.jpg,trace4.jpg,trace5.jpg",
+      "id": "2"
+    },
+    {
+      "title": "Mammals",
+      "body": "1. Glyptodon Scute (11,000 - 2.6 MYA) Florida | 2. Deer Antler (???) Florida | 3. Running Rhino Jaw Fragment (32 MYA) South Dakota | 4. Cave Bear Tooth (11,000 - 2.6 MYA) Russia | 5. Brontotherium Vertebra (30-50 MYA) South Dakota | 6. Oreodont Jaw (30-50 MYA) South Dakota | 7. Wooly Mammoth Foot Bone (11,000 - 2.6 MYA) Alaska???",
+      "photos": "ice1.jpg,ice2.jpg,ice3.jpg,ice4.jpg,ice5.jpg,ice6.jpg,ice7.jpg",
+      "id": "3"
+    },
+    {
+      "title": "Dinosaurs",
+      "body": "1. Polished Iguanadon Vertebra Cross-Section (125 MYA) Isle of Wight, UK | 2. Unidentified Sauropod Scute | 3. Triceratops Tooth (66 MYA) Montana | 4. Unidentified Tyrannosaur Tooth Fragment (70 MYA) Montana | 5. Spinosaurus Tooth (97-112 MYA) Kem Kem Basin, Morocco | 6. Ornithomimus Claw (70 MYA) Montana | 7-8. Edmontosaurus Jaw Section (66 MYA) Montana | 9. Triceratops Head Shield Fragment (66 MYA) South Dakota | 10-11. Ankylosaur Scute (70 MYA) Montana | 12. Diplodocus Tail Vertebra (150 MYA) Wyoming | 13. Triceratops Rib Segment (66 MYA) South Dakota",
+      "photos": "dino1.jpg,dino2.jpg,dino3.jpg,dino4.jpg,dino5.jpg,dino6.jpg,dino7.jpg,dino8.jpg,dino9.jpg,dino10.jpg,dino11.jpg,dino12.jpg,dino13.jpg",
+      "id": "4"
+    },
+    {
+      "title": "Living Fossils",
+      "body": "1. Horseshoe Crab (Present Day) California?? | 2-3. Horseshoe Crab (Present Day) Franklin, Maine | 4. Horseshoe Crab (Present Day) Franklin, Maine",
+      "photos": "crab1.jpg,crab2.jpg,crab3.jpg,crab4.jpg",
+      "id": "5"
+    }
+  ]
+}
